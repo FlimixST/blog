@@ -41,7 +41,7 @@ body {
   margin: 10px auto;
 }
 .container__item img {
-  max-width: 128px;
+  max-width: 200px;
   -webkit-user-select: none;
      -moz-user-select: none;
           user-select: none;
