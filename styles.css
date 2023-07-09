@@ -16,12 +16,6 @@ body {
   color: var(--text--color);
 }
 
-.top-line {
-  width: 100%;
-  height: 5px;
-  background-color: #a42424;
-}
-
 .container {
   position: absolute;
   top: 50%;
